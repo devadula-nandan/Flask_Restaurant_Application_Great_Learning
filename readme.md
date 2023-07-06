@@ -1,3 +1,4 @@
+<!-- '{"name":"Flask restaurent application","version": 12,"tech": ["Python","Flask","RestAPI","Swagger","MySQL"],"tags":["api","backend"],"snapshots":[]}' -->
 # Flask Restaurant Project Assignment
 
 ## Introduction
